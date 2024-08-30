@@ -10,4 +10,4 @@ cargo, npm, wasm-pack
 `npm run start`
 
 ## Usage
-A simulation of evolution where our animal (the triangles) chase after food (the circles) using neural networks to create the decision for the animal and a genetic algorithm to evolve the animals based on which ever could collect the most food.
+A simulation of evolution where our animal (the triangles) chase after food (the circles) using neural networks to create the decision for the animal and a genetic algorithm to evolve the animals.
